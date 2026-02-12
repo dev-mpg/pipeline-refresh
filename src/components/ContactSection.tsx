@@ -40,7 +40,7 @@ const ContactSection = () => {
                 <MapPin className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="text-foreground">1271 Rayford Bend</p>
-                  <p className="text-muted-foreground">Sprint, TX 77386</p>
+                  <p className="text-muted-foreground">Spring, TX 77386</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
