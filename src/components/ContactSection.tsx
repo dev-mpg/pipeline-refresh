@@ -39,8 +39,8 @@ const ContactSection = () => {
               <div className="flex items-start gap-4">
                 <MapPin className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-foreground">16770 Imperial Valley, Suite 105</p>
-                  <p className="text-muted-foreground">Houston, TX 77060</p>
+                  <p className="text-foreground">1271 Rayford Bend</p>
+                  <p className="text-muted-foreground">Sprint, TX 77386</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
