@@ -43,7 +43,8 @@ const HeroSection = () => (
         transition={{ delay: 0.8 }}
         className="mt-10 flex flex-col sm:flex-row gap-4 justify-center"
       >
-        <!-- <a
+        <!--
+          <a
           href="#contact"
           className="px-8 py-3.5 text-base font-semibold bg-accent text-accent-foreground rounded hover:bg-accent/90 transition-colors"
         >
@@ -54,7 +55,8 @@ const HeroSection = () => (
           className="px-8 py-3.5 text-base font-semibold border-2 border-primary-foreground/30 text-primary-foreground rounded hover:border-accent hover:text-accent transition-colors"
         >
           Our Services
-        </a> -->
+        </a> 
+          -->
       </motion.div>
     </div>
 
