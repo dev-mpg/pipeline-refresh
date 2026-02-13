@@ -3,10 +3,12 @@ import { Menu, X } from "lucide-react";
 import mpgLogo from "@/assets/mpg-logo.jpg";
 
 const navLinks = [
+  {/*
   { label: "Services", href: "#services" },
   { label: "About", href: "#about" },
   { label: "Experience", href: "#experience" },
   { label: "Contact", href: "#contact" },
+  */}
 ];
 
 const Navbar = () => {
@@ -34,7 +36,7 @@ const Navbar = () => {
             href="#contact"
             className="px-5 py-2 text-sm font-semibold bg-accent text-accent-foreground rounded hover:bg-accent/90 transition-colors"
           >
-            Request a Bid
+            Contact Us
           </a>
         </div>
 
