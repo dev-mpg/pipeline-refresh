@@ -69,7 +69,7 @@ const Navbar = () => {
               onClick={() => setOpen(false)}
               className="block text-center px-5 py-2 text-sm font-semibold bg-accent text-accent-foreground rounded"
             >
-              Request a Bid
+              Contact Us
             </a>
           </div>
         </div>
