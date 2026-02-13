@@ -56,7 +56,7 @@ const ContactSection = () => {
                 </a>
               </div>
             </div>
-
+            {/*
             <div className="pt-4 border-t border-border flex flex-col sm:flex-row gap-3">
               <a
                 href="https://mpg-plc.com/contact-us/request-a-bid/"
@@ -75,6 +75,7 @@ const ContactSection = () => {
                 Subcontractor Application
               </a>
             </div>
+            */}
           </div>
         </motion.div>
       </div>
