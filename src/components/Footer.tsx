@@ -10,12 +10,14 @@ const Footer = () => (
             MPG Pipeline Contractors
           </span>
         </div>
+        {/*
         <div className="flex flex-wrap justify-center gap-6 text-sm">
           <a href="#services" className="hover:text-accent transition-colors">Services</a>
           <a href="#about" className="hover:text-accent transition-colors">About</a>
           <a href="#experience" className="hover:text-accent transition-colors">Experience</a>
           <a href="#contact" className="hover:text-accent transition-colors">Contact</a>
         </div>
+        */}
       </div>
       <div className="mt-8 pt-6 border-t border-primary-foreground/10 text-center text-xs">
         © {new Date().getFullYear()} MPG Pipeline Contractors, LLC. All rights reserved.
