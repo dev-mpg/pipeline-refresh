@@ -23,11 +23,13 @@ const services = [
     title: "Marine & Marsh Installation",
     desc: "Trusted pipeline installation in the most challenging environments with deep expertise in shallow water construction.",
   },
+  {/*
   {
     icon: Settings,
     title: "Operational Maintenance",
     desc: "Ongoing pipeline maintenance and support services — available 24/7 to meet client needs and deadlines.",
   },
+  */}
 ];
 
 const ServicesSection = () => {
