@@ -11,13 +11,14 @@ const services = [
   {
     icon: Factory,
     title: "Facility Construction",
-    desc: "Complete meter station and compressor station construction services with specialized and experienced crews.",
+    desc: "Complete site facility and meter station construction services with specialized and experienced crews.",
   },
   {
     icon: ShieldCheck,
     title: "Pipeline Integrity",
     desc: "Comprehensive pipeline integrity solutions ensuring full compliance with all regulations, from assessment to remediation.",
   },
+  {/*
   {
     icon: Waves,
     title: "Marine & Marsh Installation",
