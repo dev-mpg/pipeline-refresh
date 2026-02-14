@@ -7,7 +7,6 @@ const highlights = [
   "FERC-regulated pipeline construction",
   "USACE-regulated horizontal directional drilling under levee systems",
   "Hydrostatic testing and hot tap interconnects",
-  "Challenging marsh, marine, and shallow water installations",
   "High marks in third-party safety perception surveys",
 ];
 
