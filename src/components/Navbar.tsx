@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import mpgLogo from "@/assets/mpg-logo.jpg";
+import mpgLogo from "@/assets/mpg-logo.png";
 
 const navLinks = [
   {/*
