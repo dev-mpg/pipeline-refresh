@@ -32,7 +32,7 @@ const ExperienceSection = () => {
               Proven Results.
             </h2>
             <p className="mt-6 text-primary-foreground/70 text-lg leading-relaxed">
-              MPG has completed many diverse and challenging projects across the United States. We look forward to partnering with established or new clients to continue building the nation's energy network.
+              MPG has completed many complex and challenging projects across the United States. We look forward to partnering with established or new clients to continue building the nation's energy network.
             </p>
           </motion.div>
 
