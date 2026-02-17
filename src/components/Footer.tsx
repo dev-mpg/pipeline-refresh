@@ -1,4 +1,4 @@
-import mpgLogo from "@/assets/mpg-logo.jpg";
+import mpgLogo from "@/assets/mpg-logo.png";
 
 const Footer = () => (
   <footer className="bg-primary text-primary-foreground/60 py-12">
