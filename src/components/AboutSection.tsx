@@ -38,7 +38,7 @@ const AboutSection = () => {
             className="space-y-5 text-muted-foreground text-base md:text-lg leading-relaxed"
           >
             <p>
-              MPG Pipeline Contractors, LLC is a leading pipeline contractor providing quality services to the oil and gas industry including pipeline construction, facility construction, pipeline integrity management and pipeline maintenance across the continental United States.
+              MPG Pipeline Contractors, LLC is a leading pipeline contractor providing quality services to the oil and gas industry including pipeline construction, facility construction and pipeline integrity management across the continental United States.
             </p>
             <p>
               We strive to maintain the highest level of professionalism, integrity, honesty and fairness in all our efforts. Our goal is satisfied customers, which requires meeting timelines, attention to detail, a service-minded attitude and cost-effective practices.
