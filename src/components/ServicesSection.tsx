@@ -40,7 +40,7 @@ const ServicesSection = () => {
             Pipeline Services
           </h2>
           <p className="mt-4 text-muted-foreground text-lg">
-            MPG has the expertise, in-the-field experience, and industry relationships to accomplish any pipeline project.
+            MPG brings the expertise, hands-on field experience, and industry connections needed to successfully deliver any pipeline project.
           </p>
         </motion.div>
 
