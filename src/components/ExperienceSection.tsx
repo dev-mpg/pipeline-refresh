@@ -7,7 +7,7 @@ const highlights = [
   "FERC-regulated pipeline construction",
   "USACE-regulated horizontal directional drilling under levee systems",
   "Hydrostatic testing and hot tap interconnects",
-  "High marks in third-party safety perception surveys",
+  "High-performance safety focused on evidence-based SIF Prevention",
 ];
 
 const ExperienceSection = () => {
