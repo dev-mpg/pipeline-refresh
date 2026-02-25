@@ -41,10 +41,10 @@ const AboutSection = () => {
               MPG Pipeline Contractors, LLC is a leading pipeline contractor providing quality services to the oil and gas industry including pipeline construction, facility construction and pipeline integrity management across the continental United States.
             </p>
             <p>
-              We strive to maintain the highest level of professionalism, integrity, honesty and fairness in all our efforts. Our goal is satisfied customers, which requires meeting timelines, attention to detail, a service-minded attitude and cost-effective practices.
+              Safety is integrated into every phase of our operations. MPG maintains active participation with industry contractor compliance platforms, including Veriforce, ISNetworld, and PEC Premier, where our programs and qualifications are reviewed to support client requirements.
             </p>
             <p>
-              Safety is integrated into every phase of our operations. MPG maintains active participation with industry contractor compliance platforms, including Veriforce, ISNetworld, and PEC Premier, where our programs and qualifications are reviewed to support client requirements.
+              We strive to maintain the highest level of professionalism, integrity, honesty and fairness in all our efforts. Our goal is satisfied customers, which requires meeting timelines, attention to detail, a service-minded attitude and cost-effective practices.
             </p>
           </motion.div>
 
