@@ -4,7 +4,7 @@ import { useRef } from "react";
 import { Shield, Award, Users } from "lucide-react";
 
 const stats = [
-  { icon: Shield, label: "Safety First", desc: "Top marks in third-party safety assessments" },
+  { icon: Shield, label: "Safety as a Core Value", desc: "A founding member of the Construction Safety Research Alliance (CSRA)" },
   { icon: Award, label: "Proven Track Record", desc: "Many repeat customers and earned referrals" },
   { icon: Users, label: "Experienced Crews", desc: "Skilled teams across the continental U.S." },
 ];
@@ -42,6 +42,9 @@ const AboutSection = () => {
             </p>
             <p>
               We strive to maintain the highest level of professionalism, integrity, honesty and fairness in all our efforts. Our goal is satisfied customers, which requires meeting timelines, attention to detail, a service-minded attitude and cost-effective practices.
+            </p>
+            <p>
+              Safety is integrated into every phase of our operations. MPG maintains active participation with industry contractor compliance platforms, including Veriforce, ISNetworld, and PEC Premier, where our programs and qualifications are reviewed to support client requirements.
             </p>
           </motion.div>
 
