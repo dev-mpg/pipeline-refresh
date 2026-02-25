@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroBg from "@/assets/edit_lower in4.jpg";
+import heroBg from "@/assets/hero-pipeline-deux.png";
 
 const HeroSection = () => (
   <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden">
